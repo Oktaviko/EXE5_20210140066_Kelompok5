@@ -49,7 +49,14 @@ namespace EXE5_20210140066_Kelompok5
         }
         public void display()
         {
-
+            if ( Okta == null)
+            {
+                Console.WriteLine("Queue is Empty!!");
+                return ;
+            }
+            Node display;
+            for (display = Okta; display != null; display = display.next)
+                Console.WriteLine(display.name);
         }
     }
     internal class Program
