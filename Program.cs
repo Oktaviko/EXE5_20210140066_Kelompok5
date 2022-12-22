@@ -14,10 +14,14 @@ namespace EXE5_20210140066_Kelompok5
     class Queue
     {
         Node Okta, Pratama;
-        public queue()
+        public Queue()
         {
             Okta = null;
             Pratama = null;
+        }
+        public void insert()
+        {
+
         }
     }
     internal class Program
