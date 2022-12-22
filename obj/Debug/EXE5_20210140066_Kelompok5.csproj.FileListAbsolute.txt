@@ -1,0 +1,8 @@
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\bin\Debug\EXE5_20210140066_Kelompok5.exe.config
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\bin\Debug\EXE5_20210140066_Kelompok5.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\bin\Debug\EXE5_20210140066_Kelompok5.pdb
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\obj\Debug\EXE5_20210140066_Kelompok5.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\obj\Debug\EXE5_20210140066_Kelompok5.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\obj\Debug\EXE5_20210140066_Kelompok5.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\obj\Debug\EXE5_20210140066_Kelompok5.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\EXE5_20210140066_Kelompok5\obj\Debug\EXE5_20210140066_Kelompok5.pdb
