@@ -16,7 +16,8 @@ namespace EXE5_20210140066_Kelompok5
         Node Okta, Pratama;
         public queue()
         {
-
+            Okta = null;
+            Pratama = null;
         }
     }
     internal class Program
