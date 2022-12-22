@@ -8,7 +8,8 @@ namespace EXE5_20210140066_Kelompok5
 {
     class Node
     {
-
+        public string name;
+        public Node next;
     }
     internal class Program
     {
