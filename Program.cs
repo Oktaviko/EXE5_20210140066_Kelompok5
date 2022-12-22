@@ -47,6 +47,10 @@ namespace EXE5_20210140066_Kelompok5
             if (Okta == null)
                 Pratama = null;
         }
+        public void display()
+        {
+
+        }
     }
     internal class Program
     {
