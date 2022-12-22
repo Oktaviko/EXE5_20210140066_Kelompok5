@@ -13,7 +13,7 @@ namespace EXE5_20210140066_Kelompok5
     }
     class Queue
     {
-
+        Node Okta, Pratama;
     }
     internal class Program
     {
