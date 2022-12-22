@@ -36,6 +36,17 @@ namespace EXE5_20210140066_Kelompok5
             Pratama.next = newnode;
             Pratama = newnode;
         }
+        public void delete()
+        {
+            if (Okta == null)
+            {
+                Console.WriteLine("Queue is Empty!!");
+                return;
+            }
+            Okta = Okta.next;
+            if (Okta == null)
+                Pratama = null;
+        }
     }
     internal class Program
     {
