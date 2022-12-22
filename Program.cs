@@ -21,7 +21,20 @@ namespace EXE5_20210140066_Kelompok5
         }
         public void insert()
         {
-
+            string nm;
+            Node newnode = new Node();
+            Console.WriteLine("Masukkan Element");
+            nm = Console.ReadLine();
+            newnode.name = nm;
+            newnode.next = null;
+            if (Okta == null)
+            {
+                Okta = newnode;
+                Pratama = newnode;
+                return;
+            }
+            Pratama.next = newnode;
+            Pratama = newnode;
         }
     }
     internal class Program
